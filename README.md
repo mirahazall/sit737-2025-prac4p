@@ -25,4 +25,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/arithmetic-microservice.git
+   git clone https://github.com/mirahazall/sit737-2025-prac4p
