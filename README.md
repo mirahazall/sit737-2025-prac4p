@@ -23,6 +23,6 @@ To run this project locally, follow these steps:
 
 ### Steps to set up:
 
-1. Clone the repository to your local machine:
+ Clone the repository to your local machine:
    ```bash
    git clone https://github.com/mirahazall/sit737-2025-prac4p
